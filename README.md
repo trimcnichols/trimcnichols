@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 
      | Language  | Project |
      | ------------- | ------------- |
-     | Bash  |  <details><summary>:blossom:[Check System Health all hosts in the network ](https://github.com/trimcnichols/bash-scripting_projects/edit/main/README.md) </summary>  |
-     |  | <details><summary>:blossom:[Check user IP address](https://github.com/trimcnichols/bash-scripting_projects/edit/main/README.md) </summary> |
-     |  | <details><summary>:blossom:[subscript (call script from another script)](https://github.com/trimcnichols/bash-scripting_projects/edit/main/README.md) </summary> |
-     |  | <details><summary>:blossom:[automate the SSH, we will use SSH-keygen and SSH-copy-id](https://github.com/trimcnichols/bash-scripting_projects/edit/main/README.md) </summary> |
-     |  | <details><summary>:blossom:[check intruder to network](https://github.com/trimcnichols/bash-scripting_projects/edit/main/README.md) </summary> |
-     |Python  | <details><summary>:snake: [Hangman with translation to another language](https://github.com/trimcnichols/learn-python-projects/edit/main/README.md) </summary> |
-     |  | <details><summary>:snake: [language detection and translation with Tkinter](https://github.com/trimcnichols/learn-python-projects/edit/main/README.md) </summary> |
-     |  | <details><summary>:snake: [most 10 frequent words from a text file with decending order](https://github.com/trimcnichols/learn-python-projects/edit/main/README.md) </summary> |
-     |  | <details><summary>:snake: [socket server](https://github.com/trimcnichols/learn-python-projects/edit/main/README.md) </summary> |
-     |  | <details><summary>:snake: [Webscrape with beautifull soup](https://github.com/trimcnichols/learn-python-projects/edit/main/README.md) </summary> |
-     |  | <details><summary>:snake: [Rock paper scissors lizard spock](https://github.com/trimcnichols/learn-python-projects/edit/main/README.md) </summary> |
-     |  | <details><summary>:snake: [Blackjack game](https://github.com/trimcnichols/learn-python-projects/edit/main/README.md) </summary> |
+     | Bash  |  <details><summary>:blossom:[Check System Health all hosts in the network ](https://github.com/trimcnichols/bash-scripting_projects) </summary>  |
+     |  | <details><summary>:blossom:[Check user IP address](https://github.com/trimcnichols/bash-scripting_projects) </summary> |
+     |  | <details><summary>:blossom:[subscript (call script from another script)](https://github.com/trimcnichols/bash-scripting_projects) </summary> |
+     |  | <details><summary>:blossom:[automate the SSH, we will use SSH-keygen and SSH-copy-id](https://github.com/trimcnichols/bash-scripting_projects) </summary> |
+     |  | <details><summary>:blossom:[check intruder to network](https://github.com/trimcnichols/bash-scripting_projects) </summary> |
+     |Python  | <details><summary>:snake: [Hangman with translation to another language](https://github.com/trimcnichols/learn-python-projects) </summary> |
+     |  | <details><summary>:snake: [language detection and translation with Tkinter](https://github.com/trimcnichols/learn-python-projects) </summary> |
+     |  | <details><summary>:snake: [most 10 frequent words from a text file with decending order](https://github.com/trimcnichols/learn-python-projects) </summary> |
+     |  | <details><summary>:snake: [socket server](https://github.com/trimcnichols/learn-python-projects) </summary> |
+     |  | <details><summary>:snake: [Webscrape with beautifull soup](https://github.com/trimcnichols/learn-python-projects) </summary> |
+     |  | <details><summary>:snake: [Rock paper scissors lizard spock](https://github.com/trimcnichols/learn-python-projects) </summary> |
+     |  | <details><summary>:snake: [Blackjack game](https://github.com/trimcnichols/learn-python-projects) </summary> |
 
 - :satellite:My project ideas for my HomeLab: 
     <ul>
