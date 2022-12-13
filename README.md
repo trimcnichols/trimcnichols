@@ -25,7 +25,7 @@ Here are some ideas to get you started:
      |  | <details><summary>:snake: [Webscrape with beautifull soup](https://github.com/trimcnichols/learn-python-projects) </summary> |
      |  | <details><summary>:snake: [Rock paper scissors lizard spock](https://github.com/trimcnichols/learn-python-projects) </summary> |
      |  | <details><summary>:snake: [Blackjack game](https://github.com/trimcnichols/learn-python-projects) </summary> |
-  | IOT(Packet Tracer) | smart home |
+  | IOT(Packet Tracer) |<details><summary>:house: [smart home ](https://github.com/trimcnichols/Smarthome-iot) </summary>|
   |  | smart garden and green house |
   |  | smartdress |
    | IOT(Raspberry pi pico w) | smarthome |
