@@ -25,6 +25,12 @@ Here are some ideas to get you started:
      |  | <details><summary>:snake: [Webscrape with beautifull soup](https://github.com/trimcnichols/learn-python-projects) </summary> |
      |  | <details><summary>:snake: [Rock paper scissors lizard spock](https://github.com/trimcnichols/learn-python-projects) </summary> |
      |  | <details><summary>:snake: [Blackjack game](https://github.com/trimcnichols/learn-python-projects) </summary> |
+  | IOT(Packet Tracer) | smart home |
+  |  | smart garden and green house |
+  |  | smartdress |
+   | IOT(Raspberry pi pico w) | smarthome |
+  |  | smart garden and green house |
+  |  | smart dress |
 
 - :satellite:My project ideas for my HomeLab: 
     <ul>
