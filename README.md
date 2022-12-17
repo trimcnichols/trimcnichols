@@ -28,6 +28,15 @@ Here are some ideas to get you started:
   | IOT(Packet Tracer) |<details><summary>:house: [smart home ](https://github.com/trimcnichols/Smarthome-iot) </summary>|
   |  | smart garden and green house |
   |  | smartdress |
+  | Raspberry pi pico : Projects | getting started , web server, firefly |
+  |  | https://projects.raspberrypi.org/en/projects/get-started-pico-w|
+  |  | https://projects.raspberrypi.org/en/projects/led-firefly|
+  |  | https://projects.raspberrypi.org/en/projects/beating-heart|
+  |  | https://projects.raspberrypi.org/en/projects/party-popper|
+  |  | https://projects.raspberrypi.org/en/projects/mood-indicator|
+  |  | https://projects.raspberrypi.org/en/projects/sensory-gadget|
+  |  | https://projects.raspberrypi.org/en/projects/sound-machine|
+  |  | |
    | IOT(Raspberry pi pico w) | smarthome |
   |  | smart garden and green house |
   |  | smart dress |
