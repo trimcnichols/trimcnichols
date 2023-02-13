@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - :satellite:My project ideas for my HomeLab: 
     <ul>
       <li> :sunny: Create a sunlight map around my house so I can grow appropriate flowers and vegetables in the right area(sun or shade loving plant). I will use raspberry pi for sunlight sensor IoT.</li>
-      <li>:airplane: :computer:Create a mock AFTN (Aeronautical Fixed Telecommunication Network) using Router, Switch and Bash programming.</li>
+     
     </ul>
 
 
