@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 
 - :satellite: In my free time I like to do: gardening, mountain biking, cooking, learning a new technology or language.
 - :satellite: In my garden I grew : :tulip: :sunflower: :tomato: :eggplant: :herb: :rose: :garlic: :carrot: :broccoli: :cucumber: &#x1F336; &#x1F96C; 
-- :satellite: Follow  or mentor me to get my dream job.:mailbox_with_mail: 
+
 
 :hibiscus::hibiscus::hibiscus: Thanks! for visiting --TM-- :hibiscus::hibiscus::hibiscus:
