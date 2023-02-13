@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- :satellite: I’m looking for a junior or entry level network / systems administrator, cyber security position. 
+
   
-- :satellite: I’m currently building a portfolio about my learning journey: Windows and Linux administration, Cisco R&S, Network security,  Python programming, Bash scripting, Cloud computing, IOT, Cisco packet tracer.
+- :satellite: I’m currently building a portfolio about my learning journey: Windows and Linux administration, Cisco R&S, Network security,  Python programming, Bash scripting, Cloud computing, IOT, Cisco packet tracer, Java fullstack web development( Java, maven, javalin, MySQL, HTML, CSS, JavaScript, REST API)
 
 
      | Language  | Project |
