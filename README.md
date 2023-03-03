@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
   
-- :satellite: I’m currently building a portfolio about my learning journey: Windows and Linux administration, Cisco R&S, Network security,  Python programming, Bash scripting, Cloud computing, IOT, Cisco packet tracer, Java fullstack web development( Java, maven, javalin, MySQL, HTML, CSS, JavaScript, REST API)
+- :satellite: I’m currently building a portfolio about my learning journey: Windows and Linux administration, Cisco R&S, Network security,  Python programming, Bash scripting, Cloud computing, IOT, Cisco packet tracer, Java fullstack web development( Java, maven, javalin, MySQL, HTML, CSS, JavaScript, REST API), C#, ADO.NET, TypeScript
 
 
      | Language  | Project |
