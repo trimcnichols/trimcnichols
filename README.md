@@ -9,22 +9,24 @@ Here are some ideas to get you started:
 
   
 - :satellite: I’m currently building a portfolio about my learning journey: Windows and Linux administration, Cisco R&S, Network security,  Python programming, Bash scripting, Cloud computing, IOT, Cisco packet tracer, Java fullstack web development( Java, maven, javalin, MySQL, HTML, CSS, JavaScript, REST API), C#, ADO.NET, TypeScript
+- 🚀  Click the :blossom: :snake: ☕ to see the code and explanation about my code
 
 
-     | Language  | Project |
-     | ------------- | ------------- |
-     | Bash  |  <details><summary>:blossom:[Check System Health all hosts in the network ](https://github.com/trimcnichols/bash-scripting_projects) </summary>  |
+     | Language  | Project |Basic |
+     | ------------- | ------------- |------ |
+     | Bash  |  <details><summary>:blossom:[Check System Health all hosts in the network ](https://github.com/trimcnichols/bash-scripting_projects) </summary>  |:blossom: [Basic bash programming from hello world until subscript( call a script from another script ](https://github.com/trimcnichols/Bash-scripting)
      |  | <details><summary>:blossom:[Check user IP address](https://github.com/trimcnichols/bash-scripting_projects) </summary> |
      |  | <details><summary>:blossom:[subscript (call script from another script)](https://github.com/trimcnichols/bash-scripting_projects) </summary> |
      |  | <details><summary>:blossom:[automate the SSH, we will use SSH-keygen and SSH-copy-id](https://github.com/trimcnichols/bash-scripting_projects) </summary> |
      |  | <details><summary>:blossom:[check intruder to network](https://github.com/trimcnichols/bash-scripting_projects) </summary> |
-     |Python  | <details><summary>:snake: [Hangman with translation to another language](https://github.com/trimcnichols/learn-python-projects) </summary> |
-     |  | <details><summary>:snake: [language detection and translation with Tkinter](https://github.com/trimcnichols/learn-python-projects) </summary> |
-     |  | <details><summary>:snake: [most 10 frequent words from a text file with decending order](https://github.com/trimcnichols/learn-python-projects) </summary> |
-     |  | <details><summary>:snake: [socket server](https://github.com/trimcnichols/learn-python-projects) </summary> |
+     |Python  | <details><summary>:snake: [Hangman with translation to another language](https://github.com/trimcnichols/learn-python-projects) </summary> |:snake: [Basic python programming from hello world until loop](https://github.com/trimcnichols/learn-python_Hello-world--loop)
+     |  | <details><summary>:snake: [language detection and translation with Tkinter](https://github.com/trimcnichols/learn-python-projects) </summary> |:snake: [various examples about python dictionary](https://github.com/trimcnichols/learn-python-dictionary)
+     |  | <details><summary>:snake: [most 10 frequent words from a text file with decending order](https://github.com/trimcnichols/learn-python-projects) </summary> |:snake: [various examples about python list](https://github.com/trimcnichols/learn-python-list)
+     |  | <details><summary>:snake: [socket server](https://github.com/trimcnichols/learn-python-projects) </summary> |:snake: [examples pytho fuction, module class](https://github.com/trimcnichols/learn-python-function_module_class)
      |  | <details><summary>:snake: [Webscrape with beautifull soup](https://github.com/trimcnichols/learn-python-projects) </summary> |
      |  | <details><summary>:snake: [Rock paper scissors lizard spock](https://github.com/trimcnichols/learn-python-projects) </summary> |
      |  | <details><summary>:snake: [Blackjack game](https://github.com/trimcnichols/learn-python-projects) </summary> |
+  |☕ Java | ☕ [Java fullstack web development( Java, maven, javalin, MySQL, REST API, JDBC) Social media blog API](https://github.com/trimcnichols/trimcnichols-pep-project) | ☕ Basic java programming 
   | IOT(Packet Tracer) |<details><summary>:house: [smart home ](https://github.com/trimcnichols/Smarthome-iot) </summary>|
   |  | smart garden and green house |
   |  | smartdress |
