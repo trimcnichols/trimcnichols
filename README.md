@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
   
 - :satellite: I’m currently building a portfolio about my learning journey: Windows and Linux administration, Cisco R&S, Network security,  Python programming, Bash scripting, Cloud computing, IOT, Cisco packet tracer, Java fullstack web development( Java, maven, javalin, MySQL, HTML, CSS, JavaScript, REST API), C#, ADO.NET, TypeScript
-- 🚀  Click the :blossom: :snake: ☕ to see the code and explanation about my code
+- 🚀  Click the :blossom: :snake: ☕ :penguin: to see the code and explanation about my code
 
 
      | Language  | Project |Basic |
@@ -22,11 +22,18 @@ Here are some ideas to get you started:
      |Python  | <details><summary>:snake: [Hangman with translation to another language](https://github.com/trimcnichols/learn-python-projects) </summary> |:snake: [Basic python programming from hello world until loop](https://github.com/trimcnichols/learn-python_Hello-world--loop)
      |  | <details><summary>:snake: [language detection and translation with Tkinter](https://github.com/trimcnichols/learn-python-projects) </summary> |:snake: [various examples about python dictionary](https://github.com/trimcnichols/learn-python-dictionary)
      |  | <details><summary>:snake: [most 10 frequent words from a text file with decending order](https://github.com/trimcnichols/learn-python-projects) </summary> |:snake: [various examples about python list](https://github.com/trimcnichols/learn-python-list)
-     |  | <details><summary>:snake: [socket server](https://github.com/trimcnichols/learn-python-projects) </summary> |:snake: [examples pytho fuction, module class](https://github.com/trimcnichols/learn-python-function_module_class)
+     |  | <details><summary>:snake: [socket server](https://github.com/trimcnichols/learn-python-projects) </summary> |:snake: [examples pytho function, module class](https://github.com/trimcnichols/learn-python-function_module_class)
      |  | <details><summary>:snake: [Webscrape with beautifull soup](https://github.com/trimcnichols/learn-python-projects) </summary> |
      |  | <details><summary>:snake: [Rock paper scissors lizard spock](https://github.com/trimcnichols/learn-python-projects) </summary> |
      |  | <details><summary>:snake: [Blackjack game](https://github.com/trimcnichols/learn-python-projects) </summary> |
-  |☕ Java | ☕ [Java fullstack web development( Java, maven, javalin, MySQL, REST API, JDBC) Social media blog API](https://github.com/trimcnichols/trimcnichols-pep-project) | ☕ Basic java programming 
+  |☕ Java | ☕ [Java fullstack web development( Java, maven, javalin, MySQL, REST API, JDBC) Social media blog API](https://github.com/trimcnichols/trimcnichols-pep-project) | ☕ [Basic java programming]( https://github.com/trimcnichols/pep-labs)
+  |Linux Administration | 🐧 [linux lab exercises ( catch a bad spy agent🌺🌺🌺 🚀🚀🚀if you try these exercises , then tell me who the real bad agent is, and why you thing that🌺🌺🌺 🚀🚀🚀)]( https://github.com/trimcnichols/Linux-admin_labs)| :penguin: [Basic linux admin command](https://github.com/trimcnichols/learn-LINUX-Admin)
+  |  | |:penguin: [ learn linux admin resources](https://github.com/trimcnichols/learn-linux-admin_resources)
+  |  | | :penguin: [managing permission](https://github.com/trimcnichols/learn-Linux-admin_managing-permissions)
+  |Windows administrations | project: active directory, group policy, DNS, DHCP, File server, Microsoft Exchange |  Basic power shell
+  |Cisco Router & switch | Cisco project |  Basic Cisco command
+  | Cloud computing | Virtualization, AWS, Azure |  Basic cloud 
+  | Sensors | Raspberry pi sensors |  [Basic 35 sensors lesson from sunfounder](https://docs.sunfounder.com/projects/sensorkit-v2-pi/en/latest/lessons.html)
   | IOT(Packet Tracer) |<details><summary>:house: [smart home ](https://github.com/trimcnichols/Smarthome-iot) </summary>|
   |  | smart garden and green house |
   |  | smartdress |
