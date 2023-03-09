@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   |  | |:penguin: [ learn linux admin resources](https://github.com/trimcnichols/learn-linux-admin_resources)
   |  | | :penguin: [managing permission](https://github.com/trimcnichols/learn-Linux-admin_managing-permissions)
   |Windows administrations | project: active directory, group policy, DNS, DHCP, File server, Microsoft Exchange |  Basic power shell
-  |Cisco Router & switch | Cisco project |  Basic Cisco command
+  |Cisco Router & switch | [Cisco project in packet tracer]( https://github.com/trimcnichols/learn-CCNA_packet-tracer)|  Basic Cisco command
   | Cloud computing | Virtualization, AWS, Azure |  Basic cloud 
   | Sensors | Raspberry pi sensors |  [Basic 35 sensors lesson from sunfounder](https://docs.sunfounder.com/projects/sensorkit-v2-pi/en/latest/lessons.html)
   | IOT(Packet Tracer) |<details><summary>:house: [smart home ](https://github.com/trimcnichols/Smarthome-iot) </summary>|
