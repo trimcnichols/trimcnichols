@@ -42,8 +42,8 @@ Here are some ideas to get you started:
   | IOT(Packet Tracer) |<details><summary>:house: [smart home ](https://github.com/trimcnichols/Smarthome-iot) </summary>|
   |  | smart garden and green house |
   |  | smartdress |
-  | Raspberry pi pico w Projects | getting started , web server, firefly |
-  |  | https://projects.raspberrypi.org/en/projects/get-started-pico-w|
+  | :sunny:Raspberry pi, pico w  | :sunny: getting started , web server, firefly |:sunny: [learn programming, AI with Raspberry pi by toptechboy](toptechboy.com)
+  |  | https://projects.raspberrypi.org/en/projects/get-started-pico-w|:sunny: [TopTechBoy Paul Mcwhorter Youtube Channel](https://www.youtube.com/@paulmcwhorter)
   |  | https://projects.raspberrypi.org/en/projects/led-firefly|
   |  | https://projects.raspberrypi.org/en/projects/beating-heart|
   |  | https://projects.raspberrypi.org/en/projects/party-popper|
