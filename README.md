@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 
 
   
-- :satellite: I’m currently building a portfolio about my learning journey: Windows and Linux administration, Cisco R&S, Network security,  Python programming, Bash scripting, Cloud computing, IOT, Cisco packet tracer, Java fullstack web development( Java, maven, javalin, MySQL, HTML, CSS, JavaScript, REST API), C#, ADO.NET, TypeScript
+- :satellite: I’m currently building a portfolio about my learning journey: Windows and Linux administration, Cisco R&S, Network security,  Python programming, Bash scripting, Cloud computing, IOT,Sensors, Cisco packet tracer, Wireshark
+- Java fullstack web development( Java, maven, javalin, MySQL, HTML, CSS, JavaScript, REST API), C#, ADO.NET, TypeScript
 - 🚀  Click the :blossom: :snake: ☕ :penguin: to see the code and explanation about my code
 
 
@@ -30,14 +31,17 @@ Here are some ideas to get you started:
   |Linux Administration | 🐧 [linux lab exercises ( catch a bad spy agent🌺🌺🌺 🚀🚀🚀if you try these exercises , then tell me who the real bad agent is, and why you thing that🌺🌺🌺 🚀🚀🚀)]( https://github.com/trimcnichols/Linux-admin_labs)| :penguin: [Basic linux admin command](https://github.com/trimcnichols/learn-LINUX-Admin)
   |  | |:penguin: [ learn linux admin resources](https://github.com/trimcnichols/learn-linux-admin_resources)
   |  | | :penguin: [managing permission](https://github.com/trimcnichols/learn-Linux-admin_managing-permissions)
-  |Windows administrations | project: active directory, group policy, DNS, DHCP, File server, Microsoft Exchange |  Basic power shell
-  |Cisco Router & switch | [Cisco project in packet tracer]( https://github.com/trimcnichols/learn-CCNA_packet-tracer)|  Basic Cisco command
-  | Cloud computing | Virtualization, AWS, Azure |  Basic cloud 
+  |Windows administrations | project: active directory, group policy, DNS, DHCP, File server, Microsoft Exchange | :tulip: [Basic power shell](https://www.codecademy.com/learn/learn-powershell)
+  |🌻 Cisco Router & switch | 🌻[Cisco project in packet tracer]( https://github.com/trimcnichols/learn-CCNA_packet-tracer)|🌻  [Basic Cisco command](https://community.cisco.com/t5/networking-knowledge-base/ccna-command-summary/ta-p/4041776)
+  |  |  | 🌻[Cisco command CheatSheet](https://www.pcwdld.com/cisco-commands-cheat-sheet)
+  |🖥 Cloud computing |🖥 Virtualization, AWS, Azure | 🖥 Basic cloud 
+  | :hibiscus: Git & GitHub |:hibiscus:  |:hibiscus: Git command cheat sheet
+  |        |  | 🌺[Work with advanced formatting Github repo readme](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
   | Sensors | Raspberry pi sensors |  [Basic 35 sensors lesson from sunfounder](https://docs.sunfounder.com/projects/sensorkit-v2-pi/en/latest/lessons.html)
   | IOT(Packet Tracer) |<details><summary>:house: [smart home ](https://github.com/trimcnichols/Smarthome-iot) </summary>|
   |  | smart garden and green house |
   |  | smartdress |
-  | Raspberry pi pico : Projects | getting started , web server, firefly |
+  | Raspberry pi pico w Projects | getting started , web server, firefly |
   |  | https://projects.raspberrypi.org/en/projects/get-started-pico-w|
   |  | https://projects.raspberrypi.org/en/projects/led-firefly|
   |  | https://projects.raspberrypi.org/en/projects/beating-heart|
