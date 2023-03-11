@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 
   
 - :satellite: I’m currently building a portfolio about my learning journey: Windows and Linux administration, Cisco R&S, Network security,  Python programming, Bash scripting, Cloud computing, IOT,Sensors, Cisco packet tracer, Wireshark
+- M2M communication : MQTT, Bluetooth, Zigbee, Thread
 - Java fullstack web development( Java, maven, javalin, MySQL, HTML, CSS, JavaScript, REST API), C#, ADO.NET, TypeScript
 - 🚀  Click the :blossom: :snake: ☕ :penguin: to see the code and explanation about my code
 
