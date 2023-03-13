@@ -35,7 +35,14 @@ Here are some ideas to get you started:
   |Windows administrations | project: active directory, group policy, DNS, DHCP, File server, Microsoft Exchange | :tulip: [Basic power shell](https://www.codecademy.com/learn/learn-powershell)
   |🌻 Cisco Router & switch | 🌻[Cisco project in packet tracer]( https://github.com/trimcnichols/learn-CCNA_packet-tracer)|🌻  [Basic Cisco command](https://community.cisco.com/t5/networking-knowledge-base/ccna-command-summary/ta-p/4041776)
   |  |  | 🌻[Cisco command CheatSheet](https://www.pcwdld.com/cisco-commands-cheat-sheet)
+  |  |  | 🌻 [study CCNA](https://study-ccna.com/)
+  |   |  | 🌻 [cisco networking study guide from Cisco](https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/networking-basics.html)
+  |  |  | 🌻 [CCNA practices test](https://www.learn-ccna.com/)
+  |  |  | 🌻[ Netacad](https://www.netacad.com/courses/networking)
+  |  |  | 🌻[learn networking and wireles] (https://www.commotionwireless.net/docs/cck/networking/learn-wireless-basics/)
+  |  |  | 🌻[Cisco basic networking pdf](https://www.cisco.com/c/dam/global/fi_fi/assets/docs/SMB_University_120307_Networking_Fundamentals.pdf)
   |🖥 Cloud computing |🖥 Virtualization, AWS, Azure | 🖥 Basic cloud 
+  |[learn to cloud guide by GPS](https://www.madebygps.com/cloudcamp
   | :hibiscus: Git & GitHub |:hibiscus:  |:hibiscus: Git command cheat sheet
   |        |  | 🌺[Work with advanced formatting Github repo readme](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
   | Sensors | Raspberry pi sensors |  [Basic 35 sensors lesson from sunfounder](https://docs.sunfounder.com/projects/sensorkit-v2-pi/en/latest/lessons.html)
