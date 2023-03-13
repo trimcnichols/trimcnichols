@@ -42,7 +42,8 @@ Here are some ideas to get you started:
   |  |  | 🌻[learn networking and wireles] (https://www.commotionwireless.net/docs/cck/networking/learn-wireless-basics/)
   |  |  | 🌻[Cisco basic networking pdf](https://www.cisco.com/c/dam/global/fi_fi/assets/docs/SMB_University_120307_Networking_Fundamentals.pdf)
   |🖥 Cloud computing |🖥 Virtualization, AWS, Azure | 🖥 Basic cloud 
-  |[learn to cloud guide by GPS](https://www.madebygps.com/cloudcamp
+  |[learn to cloud guide by GPS](https://www.madebygps.com/cloudcamp) | [AWS hands-on exercises](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all&awsm.page-getting-started-all=2) |[azure 900 by Adam Marczak](https://marczak.io/az-900/)
+  |[DEVOPS ROADMAP](https://github.com/trimcnichols/DEVOPS-WORLD) | [DEVOPS exercises](https://github.com/bregman-arie/devops-exercises)
   | :hibiscus: Git & GitHub |:hibiscus:  |:hibiscus: Git command cheat sheet
   |        |  | 🌺[Work with advanced formatting Github repo readme](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
   | Sensors | Raspberry pi sensors |  [Basic 35 sensors lesson from sunfounder](https://docs.sunfounder.com/projects/sensorkit-v2-pi/en/latest/lessons.html)
