@@ -24,7 +24,7 @@ Here are some ideas to get you started:
      |Python  | <details><summary>:snake: [Hangman with translation to another language](https://github.com/trimcnichols/learn-python-projects) </summary> |:snake: [Basic python programming from hello world until loop](https://github.com/trimcnichols/learn-python_Hello-world--loop)
      |  | <details><summary>:snake: [language detection and translation with Tkinter](https://github.com/trimcnichols/learn-python-projects) </summary> |:snake: [various examples about python dictionary](https://github.com/trimcnichols/learn-python-dictionary)
      |  | <details><summary>:snake: [most 10 frequent words from a text file with decending order](https://github.com/trimcnichols/learn-python-projects) </summary> |:snake: [various examples about python list](https://github.com/trimcnichols/learn-python-list)
-     |  | <details><summary>:snake: [socket server](https://github.com/trimcnichols/learn-python-projects) </summary> |:snake: [examples pytho function, module class](https://github.com/trimcnichols/learn-python-function_module_class)
+     |  | <details><summary>:snake: [socket server](https://github.com/trimcnichols/learn-python-projects) </summary> |:snake: [examples python function, module class](https://github.com/trimcnichols/learn-python-function_module_class)
      |  | <details><summary>:snake: [Webscrape with beautifull soup](https://github.com/trimcnichols/learn-python-projects) </summary> |
      |  | <details><summary>:snake: [Rock paper scissors lizard spock](https://github.com/trimcnichols/learn-python-projects) </summary> |
      |  | <details><summary>:snake: [Blackjack game](https://github.com/trimcnichols/learn-python-projects) </summary> |
