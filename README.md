@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 
   
-- :satellite: I’m currently building a portfolio about my learning journey: Windows and Linux administration, Cisco R&S, Network security,  Python programming, Bash scripting, Cloud computing, IOT,Sensors, Cisco packet tracer, Wireshark
-- M2M communication : MQTT, Bluetooth, Zigbee, Thread
+- :satellite: I’m currently building a portfolio about my learning journey: Windows and Linux administration, Cisco R&S, Network security,  Python programming, Bash scripting, Cloud computing, IOT,Sensors, Cisco packet tracer, Wireshark, Nmap
+- Future leaarning >> M2M communication : MQTT, Bluetooth, Zigbee, Thread, Wide band HF 
 - Java fullstack web development( Java, maven, javalin, MySQL, HTML, CSS, JavaScript, REST API), C#, ADO.NET, TypeScript
 - 🚀  Click the :blossom: :snake: ☕ :penguin: to see the code and explanation about my code
 
@@ -46,7 +46,10 @@ Here are some ideas to get you started:
   |[DEVOPS ROADMAP](https://github.com/trimcnichols/DEVOPS-WORLD) | [DEVOPS exercises](https://github.com/bregman-arie/devops-exercises)
   | :hibiscus: Git & GitHub |:hibiscus:  |:hibiscus: Git command cheat sheet
   |        |  | 🌺[Work with advanced formatting Github repo readme](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-  | Sensors | Raspberry pi sensors |  [Basic 35 sensors lesson from sunfounder](https://docs.sunfounder.com/projects/sensorkit-v2-pi/en/latest/lessons.html)
+  | 🕵 Security |  | 🕵 Wireshark|
+  |        |    | 🕵 Nmap |
+  |        |    | 🕵 Comptia Security+ resources|
+  | 🐝 Sensors | 🐝 Raspberry pi sensors | 🐝 [Basic 35 sensors lesson from sunfounder](https://docs.sunfounder.com/projects/sensorkit-v2-pi/en/latest/lessons.html)
   | IOT(Packet Tracer) |<details><summary>:house: [smart home ](https://github.com/trimcnichols/Smarthome-iot) </summary>|
   |  | smart garden and green house |
   |  | smartdress |
