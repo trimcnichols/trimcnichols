@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   |Linux Administration | 🐧 [linux lab exercises ( catch a bad spy agent🌺🌺🌺 🚀🚀🚀if you try these exercises , then tell me who the real bad agent is, and why you thing that🌺🌺🌺 🚀🚀🚀)]( https://github.com/trimcnichols/Linux-admin_labs)| :penguin: [Basic linux admin command](https://github.com/trimcnichols/learn-LINUX-Admin)
   |  | |:penguin: [ learn linux admin resources](https://github.com/trimcnichols/learn-linux-admin_resources)
   |  | | :penguin: [managing permission](https://github.com/trimcnichols/learn-Linux-admin_managing-permissions)
+  |  | | :penguin: [Debian handbook](https://www.debian.org/doc/manuals/debian-handbook/)
   |Windows administrations | project: active directory, group policy, DNS, DHCP, File server, Microsoft Exchange | :tulip: [Basic power shell](https://www.codecademy.com/learn/learn-powershell)
   |🌻 Cisco Router & switch | 🌻[Cisco project in packet tracer]( https://github.com/trimcnichols/learn-CCNA_packet-tracer)|🌻  [Basic Cisco command](https://community.cisco.com/t5/networking-knowledge-base/ccna-command-summary/ta-p/4041776)
   |  |  | 🌻[Cisco command CheatSheet](https://www.pcwdld.com/cisco-commands-cheat-sheet)
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
   |   |  | 🌻 [cisco networking study guide from Cisco](https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/networking-basics.html)
   |  |  | 🌻 [CCNA practices test](https://www.learn-ccna.com/)
   |  |  | 🌻[ Netacad](https://www.netacad.com/courses/networking)
-  |  |  | 🌻[learn networking and wireles] (https://www.commotionwireless.net/docs/cck/networking/learn-wireless-basics/)
+  |  |  | 🌻[learn networking and wireless](https://www.commotionwireless.net/docs/cck/networking/learn-wireless-basics/)
   |  |  | 🌻[Cisco basic networking pdf](https://www.cisco.com/c/dam/global/fi_fi/assets/docs/SMB_University_120307_Networking_Fundamentals.pdf)
   |🖥 Cloud computing |🖥 Virtualization, AWS, Azure | 🖥 Basic cloud 
   |[learn to cloud guide by GPS](https://www.madebygps.com/cloudcamp) | [AWS hands-on exercises](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all&awsm.page-getting-started-all=2) |[azure 900 by Adam Marczak](https://marczak.io/az-900/)
