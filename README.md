@@ -46,6 +46,8 @@ Here are some ideas to get you started:
   |🌻 Cisco Router & switch | 🌻[Cisco project in packet tracer]( https://github.com/trimcnichols/learn-CCNA_packet-tracer)|🌻  [Basic Cisco command](https://community.cisco.com/t5/networking-knowledge-base/ccna-command-summary/ta-p/4041776)
   |  |  | 🌻[Cisco command CheatSheet](https://www.pcwdld.com/cisco-commands-cheat-sheet)
   |  |  | 🌻 [study CCNA](https://study-ccna.com/)
+  |  |  | 🌻[David Bombal's youtube CCNA](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPc2RecyiM_A9nf3fUU3e6g)
+  |  |  | 🌻[Jeremy IT labs youtube video](https://www.youtube.com/@JeremysITLab)
   |   |  | 🌻 [cisco networking study guide from Cisco](https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/networking-basics.html)
   |  |  | 🌻 [CCNA practices test](https://www.learn-ccna.com/)
   |  |  | 🌻[ Netacad](https://www.netacad.com/courses/networking)
