@@ -66,6 +66,8 @@ Here are some ideas to get you started:
   |  | smart garden and green house |
   |  | smart dress |
 
+- :satellite: What I have in my home lab : Raspberry pi 2,3(2),4(2), zero w, pico w(11), sunfounder 35 sensors for raspberry pi, sunfounder kepler for learning raspberry pi
+  
 - :satellite:My project ideas for my HomeLab: 
     <ul>
       <li> :sunny: Create a sunlight map around my house so I can grow appropriate flowers and vegetables in the right area(sun or shade loving plant). I will use raspberry pi for sunlight sensor IoT.</li>
