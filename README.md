@@ -28,11 +28,18 @@ Here are some ideas to get you started:
      |  | <details><summary>:snake: [Webscrape with beautifull soup](https://github.com/trimcnichols/learn-python-projects) </summary> |
      |  | <details><summary>:snake: [Rock paper scissors lizard spock](https://github.com/trimcnichols/learn-python-projects) </summary> |
      |  | <details><summary>:snake: [Blackjack game](https://github.com/trimcnichols/learn-python-projects) </summary> |
-  |☕ Java | ☕ [Java fullstack web development( Java, maven, javalin, MySQL, REST API, JDBC) Social media blog API](https://github.com/trimcnichols/trimcnichols-pep-project) | ☕ [Basic java programming]( https://github.com/trimcnichols/pep-labs)
+  |☕ Java | ☕ [Java fullstack web development( Java, maven, javalin, MySQL, REST API, JDBC) Social media blog API](https://github.com/trimcnichols/trimcnichols-pep-project) | ☕ [Basic java programming exercises]( https://github.com/trimcnichols/pep-labs)
+  |  |  |☕ [ pep-labs exercises answer](https://github.com/trimcnichols/core-java)
+  |  |  | ☕ [Basic java programming exercises extra challeges](https://github.com/trimcnichols/b-sides-challenges)
+  |  |  | ☕ [Advance Java extra challenges exercises](https://github.com/trimcnichols/java-extra-challenges)
+  |  |   | ☕[ Java abstraction demo](https://github.com/trimcnichols/abstraction_demo)
+  |  |  | ☕ [Advance Java extra challenges exercises 2](https://github.com/trimcnichols/java-extra-labs)
+  |  |  | ☕ [Advance Java extra challenges exercises 3](https://github.com/trimcnichols/java-extra)
   |Linux Administration | 🐧 [linux lab exercises ( catch a bad spy agent🌺🌺🌺 🚀🚀🚀if you try these exercises , then tell me who the real bad agent is, and why you thing that🌺🌺🌺 🚀🚀🚀)]( https://github.com/trimcnichols/Linux-admin_labs)| :penguin: [Basic linux admin command](https://github.com/trimcnichols/learn-LINUX-Admin)
   |  | |:penguin: [ learn linux admin resources](https://github.com/trimcnichols/learn-linux-admin_resources)
   |  | | :penguin: [managing permission](https://github.com/trimcnichols/learn-Linux-admin_managing-permissions)
   |  | | :penguin: [Debian handbook](https://www.debian.org/doc/manuals/debian-handbook/)
+  |  | | :penguin:[LPI learning Material](https://learning.lpi.org/en/learning-materials/learning-materials/)
   |Windows administrations | project: active directory, group policy, DNS, DHCP, File server, Microsoft Exchange | :tulip: [Basic power shell](https://www.codecademy.com/learn/learn-powershell)
   |🌻 Cisco Router & switch | 🌻[Cisco project in packet tracer]( https://github.com/trimcnichols/learn-CCNA_packet-tracer)|🌻  [Basic Cisco command](https://community.cisco.com/t5/networking-knowledge-base/ccna-command-summary/ta-p/4041776)
   |  |  | 🌻[Cisco command CheatSheet](https://www.pcwdld.com/cisco-commands-cheat-sheet)
@@ -45,11 +52,15 @@ Here are some ideas to get you started:
   |🖥 Cloud computing |🖥 Virtualization, AWS, Azure | 🖥 Basic cloud 
   |[learn to cloud guide by GPS](https://www.madebygps.com/cloudcamp) | [AWS hands-on exercises](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all&awsm.page-getting-started-all=2) |[azure 900 by Adam Marczak](https://marczak.io/az-900/)
   |[DEVOPS ROADMAP](https://github.com/trimcnichols/DEVOPS-WORLD) | [DEVOPS exercises](https://github.com/bregman-arie/devops-exercises)
-  | :hibiscus: Git & GitHub |:hibiscus:  |:hibiscus: Git command cheat sheet
+  |  |  | [DEVOPS terraforn Course](https://github.com/trimcnichols/devops-directive-terraform-course)
+  | :hibiscus: Git & GitHub |:hibiscus: [peer programming, deploy on github, test it with postman](https://github.com/RECamp88/recipe-api) |:hibiscus: [Git command cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
   |        |  | 🌺[Work with advanced formatting Github repo readme](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-  | 🕵 Security |  | 🕵 Wireshark|
-  |        |    | 🕵 Nmap |
-  |        |    | 🕵 Comptia Security+ resources|
+  | 🕵 Security |  | 🕵 [Wireshark documentation](https://www.wireshark.org/docs/wsdg_html_chunked/)|
+  |  |  | 🕵 [Wireshark cheat sheet](https://github.com/sk3pp3r/cheat-sheet-pdf/blob/master/pdf/wireshark.pdf)|
+  |        |    | 🕵 [Nmap reference guide](https://nmap.org/book/man.html) |
+  |        |    | 🕵 [Nmap cheat sheet](https://www.stationx.net/nmap-cheat-sheet/) |
+  |        |    | 🕵 [Professor Messer’s SY0-601 CompTIA Security+ Course](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/)|
+  |        |    | 🕵 [Comptia Security+ cheat sheet](https://www.stationx.net/comptia-security-cheat-sheet/) |
   | 🐝 Sensors | 🐝 Raspberry pi sensors | 🐝 [Basic 35 sensors lesson from sunfounder](https://docs.sunfounder.com/projects/sensorkit-v2-pi/en/latest/lessons.html)
   | IOT(Packet Tracer) |<details><summary>:house: [smart home ](https://github.com/trimcnichols/Smarthome-iot) </summary>|
   |  | smart garden and green house |
