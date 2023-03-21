@@ -8,9 +8,8 @@ Here are some ideas to get you started:
 
 
   
-- :satellite: I’m currently building a portfolio about my learning journey: Windows and Linux administration, Cisco R&S, Network security,  Python programming, Bash scripting, Cloud computing, IOT,Sensors, Cisco packet tracer, Wireshark, Nmap
-- Future learning >> M2M communication : MQTT, Bluetooth, Zigbee, Thread, Wide band HF 
-- Java fullstack web development( Java, maven, javalin, MySQL, HTML, CSS, JavaScript, REST API)
+- :satellite: I’m currently building a portfolio about my learning journey and creating free resources about: Windows and Linux administration, Cisco R&S, Network security,  Python programming, Bash scripting, Cloud computing, IOT,Sensors, Cisco packet tracer, Wireshark, Nmap
+- Java fullstack web development( Java, maven, javalin, MySQL, HTML, CSS, JavaScript, REST API, Angular, React, Spring Boot)
 - 🚀  Click the :blossom: :snake: ☕ :penguin: to see the code and explanation about my code
 
 
@@ -29,7 +28,7 @@ Here are some ideas to get you started:
      |  | <details><summary>:snake: [Rock paper scissors lizard spock](https://github.com/trimcnichols/learn-python-projects) </summary> |
      |  | <details><summary>:snake: [Blackjack game](https://github.com/trimcnichols/learn-python-projects) </summary> |
   |☕ Java | ☕ [Java fullstack web development( Java, maven, javalin, MySQL, REST API, JDBC) Social media blog API](https://github.com/trimcnichols/trimcnichols-pep-project) | ☕ [Basic java programming exercises]( https://github.com/trimcnichols/pep-labs)
-  |  |  |☕ [ pep-labs exercises answer](https://github.com/trimcnichols/core-java)
+  |  |  |☕ [ Basic java exercises answer](https://github.com/trimcnichols/core-java)
   |  |  | ☕ [Basic java programming exercises extra challeges](https://github.com/trimcnichols/b-sides-challenges)
   |  |  | ☕ [Advance Java extra challenges exercises](https://github.com/trimcnichols/java-extra-challenges)
   |  |   | ☕[ Java abstraction demo](https://github.com/trimcnichols/abstraction_demo)
@@ -55,6 +54,7 @@ Here are some ideas to get you started:
   |   |  | 🌻 [cisco networking study guide from Cisco](https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/networking-basics.html)
   |  |  | 🌻 [CCNA practices test](https://www.learn-ccna.com/)
   |  |  | 🌻[subnetting how to](https://easysubnetting.com/docs/SevenStepsToSubnetting.pdf)
+  |  |  | 🌻[subnetting calculator](https://www.subnet-calculator.com/subnet.php?net_class=B)🚀
   |  |  | 🌻[ Netacad](https://www.netacad.com/courses/networking)
   |  |  | 🌻[learn networking and wireless](https://www.commotionwireless.net/docs/cck/networking/learn-wireless-basics/)
   |  |  | 🌻[Cisco basic networking pdf](https://www.cisco.com/c/dam/global/fi_fi/assets/docs/SMB_University_120307_Networking_Fundamentals.pdf)
@@ -84,12 +84,9 @@ Here are some ideas to get you started:
   |  | https://projects.raspberrypi.org/en/projects/sensory-gadget|
   |  | https://projects.raspberrypi.org/en/projects/sound-machine|
   |  | |
-   | IOT(Raspberry pi pico w) | smarthome |
-  |  | smart garden and green house |
-  |  | smart dress |
 
 - :satellite: What I have in my home lab : Raspberry pi 2,3(2),4(2), zero w, pico w(11), sunfounder 35 sensors for raspberry pi, sunfounder kepler for learning raspberry pi
-  
+- Future learning >> M2M communication : MQTT, Bluetooth, Zigbee, Thread, Wide band HF   
 - :satellite:My project ideas for my HomeLab: 
     <ul>
       <li> :sunny: Create a sunlight map around my house so I can grow appropriate flowers and vegetables in the right area(sun or shade loving plant). I will use raspberry pi for sunlight sensor IoT.</li>
