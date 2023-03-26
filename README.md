@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   |  |   | ☕[ Java abstraction demo](https://github.com/trimcnichols/abstraction_demo)
   |  |  | ☕ [Advance Java extra challenges exercises 2](https://github.com/trimcnichols/java-extra-labs)
   |  |  | ☕ [Advance Java extra challenges exercises 3](https://github.com/trimcnichols/java-extra)
+  |  |  | ☕[HASHMAP IN JAVA – Everything You Need to Know About](https://www.mygreatlearning.com/blog/hashmap-in-java/)
   |🐧 Linux Administration | 🐧 [linux lab exercises ( catch a bad spy agent🌺🌺🌺 🚀🚀🚀if you try these exercises , then tell me who the real bad agent is, and why you thing that🌺🌺🌺 🚀🚀🚀)]( https://github.com/trimcnichols/Linux-admin_labs)| :penguin: [Basic linux admin command](https://github.com/trimcnichols/learn-LINUX-Admin)
   |  | |:penguin: [ learn linux admin resources](https://github.com/trimcnichols/learn-linux-admin_resources)
   |  | | :penguin: [managing permission](https://github.com/trimcnichols/learn-Linux-admin_managing-permissions)
