@@ -70,6 +70,7 @@ Here are some ideas to get you started:
   |  |  |🕵[Wireshark Labs Network protocol(ICMP,TCP,DNS)](https://www.youtube.com/watch?v=eybpRwlP6vI&list=PLti75d5JDbT2v0BbVh9zVsB3_pPvrd1lm&index=1)
   |        |    | 🕵 [Nmap reference guide](https://nmap.org/book/man.html) |
   |        |    | 🕵 [Nmap cheat sheet](https://www.stationx.net/nmap-cheat-sheet/) |
+  |        |    | 🕵 [CompTIA Security+ Exam Cram (Full Training Course - All 5 Domains) - SY0-601](https://www.youtube.com/watch?v=9Hd8QJmZQUc)
   |        |    | 🕵 [Professor Messer’s SY0-601 CompTIA Security+ Course](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/)|
   |        |    | 🕵 [Comptia Security+ cheat sheet](https://www.stationx.net/comptia-security-cheat-sheet/) |
   | 🐝 Sensors | 🐝 Raspberry pi sensors | 🐝 [Basic 35 sensors lesson from sunfounder](https://docs.sunfounder.com/projects/sensorkit-v2-pi/en/latest/lessons.html)
